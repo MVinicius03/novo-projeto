@@ -3,8 +3,7 @@ import styles from './codeverificacao.module.css';
 import './codeverificacao.module.css';
 import LogoBanc from '../../img/logo.svg'
 import SetaEsq from '../../img/seta_esq.svg'
-import { Link } from 'react-router-dom';
-
+import { Link } from 'react-router-dom'; 
 
 const Verificacao = () => {
   return (
